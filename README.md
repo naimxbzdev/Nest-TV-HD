@@ -11,7 +11,7 @@
 [![License](https://img.shields.io/badge/License-Proprietary-00F5D4?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge)]()
 
-[লাইভ ডেমো দেখুন (Live Demo)](https://ais-pre-wpcbiin7fyfzupaiths4rf-470547033991.asia-southeast1.run.app) • [চ্যানেল ডিরেক্টরি](#-300-চ্যানেল-ডিরেক্টরি) • [এডমিন প্যানেল](#-এডমিন-কন্ট্রোল-প্যানেল) • [ইনস্টলেশন গাইড](#-ইনস্টলেশন-ও-রান-করার-নিয়ম)
+[লাইভ ডেমো দেখুন (Live Demo)](https://nesttvhd.netlify.app/) • [চ্যানেল ডিরেক্টরি](https://nesttvhd.netlify.app/) • [এডমিন প্যানেল](https://nesttvhd.netlify.app/) • [ইনস্টলেশন গাইড](https://nesttvhd.netlify.app/)
 
 ---
 
