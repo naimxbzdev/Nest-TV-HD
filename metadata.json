@@ -1,0 +1,6 @@
+{
+  "name": "Nest TV HD - by Naim Xbz | 300+ Live TV Channels & Streaming Platform",
+  "description": "Nest TV HD by Naim Xbz - Premium Smart TV & Web IPTV platform with 300+ live HD/4K channels, seamless subscription plans, bKash/Nagad payments, and instant web streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
